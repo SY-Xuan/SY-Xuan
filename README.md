@@ -1,5 +1,7 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SY-Xuan&show_icons=true&theme=onedark&count_private=true" />
 
+<!-- ### Hi there 👋 -->
+## 🔭 I’m currently working on *CVPR2022*
 <!--
 **SY-Xuan/SY-Xuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
