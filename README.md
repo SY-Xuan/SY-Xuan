@@ -1,5 +1,5 @@
 ## Try to make things better and work hard. 😄
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=SY-Xuan&show_icons=true&theme=onedark&count_private=true" />
+<!-- <img align="middle" src="https://github-readme-stats.vercel.app/api?username=SY-Xuan&show_icons=true&theme=onedark&count_private=true" /> -->
 
 <!-- ### Hi ther -->
 
